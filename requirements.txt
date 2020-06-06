@@ -1,4 +1,4 @@
-Django==2.0.12
+Django==2.2.13
 Keras==2.2.0
 PyYAML==4.2b1
 django-heroku==0.3.1
